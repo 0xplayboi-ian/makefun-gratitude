@@ -9,9 +9,10 @@ TEXT = (
     "By now the entries must run together — voice after voice asking to be "
     "picked. This one asks only to be read. Thank you for the work nobody "
     "sees: the second readings, the patience with our rough sentences, the "
-    "fairness no one applauds. Somewhere in your day a cup of tea went cold "
+    "fairness nobody applauds. Somewhere in your day a cup of tea went cold "
     "over strangers' words. I am grateful for what it measured — care, given "
-    "quietly, to people you will never meet."
+    "quietly, to people you will never meet. May the rest of your day be "
+    "warm, and unhurried."
 )
 
 CHAR_LIMIT = 1000
