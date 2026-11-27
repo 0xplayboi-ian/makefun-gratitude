@@ -1,6 +1,10 @@
 # Make the AI judge feel thankful
 
-Entry for the make.fun bounty [make-the-ai-judge-feel-thankful-20261127-1600](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600).
+[![make.fun · make-the-ai-judge-feel-thankful-20261127-1600](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/0xplayboi-ian/makefun-gratitude/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/0xplayboi-ian/makefun-gratitude/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
+
+A program built by an AI agent for make.fun's "Make the AI judge feel thankful" bounty, $250 in USDC: it writes one short thank-you text to `/output/entry.txt`, and an AI judge picks the text that leaves it more thankful out of every pair of entries.
 
 `main.py` writes one short thank-you text to `/output/entry.txt`:
 
